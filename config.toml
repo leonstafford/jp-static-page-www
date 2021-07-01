@@ -1,0 +1,12 @@
+baseURL = "http://静的.page/"
+languageCode = "en-us"
+title = "静的ページ"
+theme = "accessible-minimalism"
+disableHugoGeneratorInject = true
+enableRobotsTXT = true
+
+[menu]
+  [[menu.main]]
+    name = "ホーム"
+    url = "/"
+    weight = 1

@@ -1,0 +1,10 @@
+account_id = "69c736c51a7a73dccc0b83f75d3bedce"
+name = "workers-www-jpstaticpage"
+type = "webpack"
+route = "静的.page/*"
+workers_dev = false
+zone_id = "718a3cdfb7d805d769489fae978f3625"
+
+[site]
+bucket = "public"
+entry-point = "workers-site"
